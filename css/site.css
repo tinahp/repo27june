@@ -78,6 +78,9 @@
 			text-decoration:underline;
         }
 
+<!---properties of a css file for application build-->
+<!---css code changes to the master branch Team member 1-->
+
         .content {
             box-sizing: border-box;
             min-width: 700px;
